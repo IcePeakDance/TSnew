@@ -1,0 +1,255 @@
+十月 21, 2017 2:19:45 下午 org.apache.tomcat.util.digester.SetPropertiesRule begin
+警告: [SetPropertiesRule]{Server/Service/Engine/Host/Context} Setting property 'source' to 'org.eclipse.jst.j2ee.server:TSnew_0.01' did not find a matching property.
+十月 21, 2017 2:19:45 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Server version:        Apache Tomcat/8.0.36
+十月 21, 2017 2:19:45 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Server built:          Jun 9 2016 13:55:50 UTC
+十月 21, 2017 2:19:45 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Server number:         8.0.36.0
+十月 21, 2017 2:19:45 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: OS Name:               Windows 8.1
+十月 21, 2017 2:19:45 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: OS Version:            6.3
+十月 21, 2017 2:19:45 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Architecture:          amd64
+十月 21, 2017 2:19:45 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Java Home:             D:\Application\Java\jdk1.7.0_80\jre
+十月 21, 2017 2:19:45 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: JVM Version:           1.7.0_80-b15
+十月 21, 2017 2:19:45 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: JVM Vendor:            Oracle Corporation
+十月 21, 2017 2:19:45 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: CATALINA_BASE:         D:\JavaProject\TSnew\project\.metadata\.plugins\org.eclipse.wst.server.core\tmp1
+十月 21, 2017 2:19:45 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: CATALINA_HOME:         D:\JavaProject\TSnew\apache-tomcat-8.0.36
+十月 21, 2017 2:19:45 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -agentlib:jdwp=transport=dt_socket,suspend=y,address=localhost:53530
+十月 21, 2017 2:19:45 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dcatalina.base=D:\JavaProject\TSnew\project\.metadata\.plugins\org.eclipse.wst.server.core\tmp1
+十月 21, 2017 2:19:45 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dcatalina.home=D:\JavaProject\TSnew\apache-tomcat-8.0.36
+十月 21, 2017 2:19:45 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dwtp.deploy=D:\JavaProject\TSnew\project\.metadata\.plugins\org.eclipse.wst.server.core\tmp1\wtpwebapps
+十月 21, 2017 2:19:45 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djava.endorsed.dirs=D:\JavaProject\TSnew\apache-tomcat-8.0.36\endorsed
+十月 21, 2017 2:19:45 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dfile.encoding=UTF-8
+十月 21, 2017 2:19:45 下午 org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+信息: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: D:\Application\Java\jdk1.7.0_80\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;D:/Application/Java/jdk1.7.0_80/bin/../jre/bin/server;D:/Application/Java/jdk1.7.0_80/bin/../jre/bin;D:/Application/Java/jdk1.7.0_80/bin/../jre/lib/amd64;D:\Application\Java\jdk1.7.0_80\bin;D:\Application\Java\jdk1.7.0_80\jre\bin;C:\Program Files (x86)\Lenovo\FusionEngine;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\Common Files\lenovo\easyplussdk\bin;C:\Program Files (x86)\Lenovo\Lenovo Home\;D:\Application\mysql-5.7.17-winx64\bin;D:\Application\Rational\common;D:\Application\hadoop-2.4.1/bin;D:\Application\TortoiseSVN\bin;D:\Application\apache-maven-3.5.0\bin;C:\Users\智峰\AppData\Local\Microsoft\WindowsApps;;D:\Application\eclipse;;.
+十月 21, 2017 2:19:45 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["http-nio-8080"]
+十月 21, 2017 2:19:45 下午 org.apache.tomcat.util.net.NioSelectorPool getSharedSelector
+信息: Using a shared selector for servlet write/read
+十月 21, 2017 2:19:45 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["ajp-nio-8009"]
+十月 21, 2017 2:19:45 下午 org.apache.tomcat.util.net.NioSelectorPool getSharedSelector
+信息: Using a shared selector for servlet write/read
+十月 21, 2017 2:19:45 下午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 945 ms
+十月 21, 2017 2:19:45 下午 org.apache.catalina.core.StandardService startInternal
+信息: Starting service Catalina
+十月 21, 2017 2:19:45 下午 org.apache.catalina.core.StandardEngine startInternal
+信息: Starting Servlet Engine: Apache Tomcat/8.0.36
+十月 21, 2017 2:19:46 下午 org.apache.catalina.util.SessionIdGeneratorBase createSecureRandom
+信息: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [724] milliseconds.
+十月 21, 2017 2:19:46 下午 org.apache.catalina.core.ContainerBase startInternal
+严重: A child container failed during start
+java.util.concurrent.ExecutionException: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/TSnew_0.01]]
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122)
+	at java.util.concurrent.FutureTask.get(FutureTask.java:188)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:915)
+	at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:871)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:147)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1407)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1397)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/TSnew_0.01]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:153)
+	... 6 more
+Caused by: java.lang.UnsupportedClassVersionError: org/springframework/web/SpringServletContainerInitializer : Unsupported major.minor version 52.0 (unable to load class org.springframework.web.SpringServletContainerInitializer)
+	at org.apache.catalina.loader.WebappClassLoaderBase.findClassInternal(WebappClassLoaderBase.java:2544)
+	at org.apache.catalina.loader.WebappClassLoaderBase.findClass(WebappClassLoaderBase.java:858)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1301)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1166)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:278)
+	at org.apache.catalina.startup.WebappServiceLoader.loadServices(WebappServiceLoader.java:186)
+	at org.apache.catalina.startup.WebappServiceLoader.load(WebappServiceLoader.java:157)
+	at org.apache.catalina.startup.ContextConfig.processServletContainerInitializers(ContextConfig.java:1620)
+	at org.apache.catalina.startup.ContextConfig.webConfig(ContextConfig.java:1136)
+	at org.apache.catalina.startup.ContextConfig.configureStart(ContextConfig.java:779)
+	at org.apache.catalina.startup.ContextConfig.lifecycleEvent(ContextConfig.java:306)
+	at org.apache.catalina.util.LifecycleSupport.fireLifecycleEvent(LifecycleSupport.java:95)
+	at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:90)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5202)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:147)
+	... 6 more
+
+十月 21, 2017 2:19:46 下午 org.apache.catalina.core.ContainerBase startInternal
+严重: A child container failed during start
+java.util.concurrent.ExecutionException: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost]]
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122)
+	at java.util.concurrent.FutureTask.get(FutureTask.java:188)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:915)
+	at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:262)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:147)
+	at org.apache.catalina.core.StandardService.startInternal(StandardService.java:441)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:147)
+	at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:787)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:147)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:629)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:351)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:485)
+Caused by: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:153)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1407)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1397)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.apache.catalina.LifecycleException: A child container failed during start
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:923)
+	at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:871)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:147)
+	... 6 more
+
+十月 21, 2017 2:19:46 下午 org.apache.catalina.startup.Catalina start
+严重: The required Server component failed to start so Tomcat is unable to start.
+org.apache.catalina.LifecycleException: Failed to start component [StandardServer[8005]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:153)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:629)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:351)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:485)
+Caused by: org.apache.catalina.LifecycleException: Failed to start component [StandardService[Catalina]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:153)
+	at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:787)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:147)
+	... 7 more
+Caused by: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:153)
+	at org.apache.catalina.core.StandardService.startInternal(StandardService.java:441)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:147)
+	... 9 more
+Caused by: org.apache.catalina.LifecycleException: A child container failed during start
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:923)
+	at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:262)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:147)
+	... 11 more
+
+十月 21, 2017 2:19:46 下午 org.apache.coyote.AbstractProtocol pause
+信息: Pausing ProtocolHandler ["http-nio-8080"]
+十月 21, 2017 2:19:46 下午 org.apache.coyote.AbstractProtocol pause
+信息: Pausing ProtocolHandler ["ajp-nio-8009"]
+十月 21, 2017 2:19:46 下午 org.apache.catalina.core.StandardService stopInternal
+信息: Stopping service Catalina
+十月 21, 2017 2:19:46 下午 org.apache.catalina.util.LifecycleBase destroy
+警告: Calling stop() on failed component [StandardServer[8005]] to trigger clean-up did not complete.
+org.apache.catalina.LifecycleException: Failed to stop component [StandardServer[8005]]
+	at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:228)
+	at org.apache.catalina.util.LifecycleBase.destroy(LifecycleBase.java:263)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:633)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:351)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:485)
+Caused by: org.apache.catalina.LifecycleException: Failed to stop component [StandardService[Catalina]]
+	at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:228)
+	at org.apache.catalina.core.StandardServer.stopInternal(StandardServer.java:808)
+	at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:224)
+	... 8 more
+Caused by: org.apache.catalina.LifecycleException: An invalid Lifecycle transition was attempted ([before_stop]) for component [org.apache.catalina.core.StandardThreadExecutor@25d38bc3] in state [INITIALIZED]
+	at org.apache.catalina.util.LifecycleBase.invalidTransition(LifecycleBase.java:401)
+	at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:211)
+	at org.apache.catalina.core.StandardService.stopInternal(StandardService.java:534)
+	at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:224)
+	... 10 more
+
+十月 21, 2017 2:19:46 下午 org.apache.coyote.AbstractProtocol pause
+信息: Pausing ProtocolHandler ["http-nio-8080"]
+十月 21, 2017 2:19:46 下午 org.apache.coyote.AbstractProtocol pause
+信息: Pausing ProtocolHandler ["ajp-nio-8009"]
+十月 21, 2017 2:19:46 下午 org.apache.catalina.core.StandardService stopInternal
+信息: Stopping service Catalina
+十月 21, 2017 2:19:46 下午 org.apache.catalina.util.LifecycleBase stop
+信息: The stop() method was called on component [StandardEngine[Catalina]] after stop() had already been called. The second call will be ignored.
+十月 21, 2017 2:19:46 下午 org.apache.catalina.util.LifecycleBase destroy
+警告: Calling stop() on failed component [StandardService[Catalina]] to trigger clean-up did not complete.
+org.apache.catalina.LifecycleException: Failed to stop component [StandardService[Catalina]]
+	at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:228)
+	at org.apache.catalina.util.LifecycleBase.destroy(LifecycleBase.java:263)
+	at org.apache.catalina.core.StandardServer.destroyInternal(StandardServer.java:877)
+	at org.apache.catalina.util.LifecycleBase.destroy(LifecycleBase.java:297)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:633)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:351)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:485)
+Caused by: org.apache.catalina.LifecycleException: An invalid Lifecycle transition was attempted ([before_stop]) for component [org.apache.catalina.core.StandardThreadExecutor@25d38bc3] in state [INITIALIZED]
+	at org.apache.catalina.util.LifecycleBase.invalidTransition(LifecycleBase.java:401)
+	at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:211)
+	at org.apache.catalina.core.StandardService.stopInternal(StandardService.java:534)
+	at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:224)
+	... 10 more
+
+十月 21, 2017 2:19:46 下午 org.apache.coyote.AbstractProtocol destroy
+信息: Destroying ProtocolHandler ["http-nio-8080"]
+十月 21, 2017 2:19:46 下午 org.apache.coyote.AbstractProtocol destroy
+严重: Failed to destroy end point associated with ProtocolHandler ["http-nio-8080"]
+java.lang.NullPointerException
+	at org.apache.tomcat.util.net.NioEndpoint.releaseCaches(NioEndpoint.java:316)
+	at org.apache.tomcat.util.net.NioEndpoint.unbind(NioEndpoint.java:492)
+	at org.apache.tomcat.util.net.AbstractEndpoint.destroy(AbstractEndpoint.java:821)
+	at org.apache.coyote.AbstractProtocol.destroy(AbstractProtocol.java:534)
+	at org.apache.catalina.connector.Connector.destroyInternal(Connector.java:1023)
+	at org.apache.catalina.util.LifecycleBase.destroy(LifecycleBase.java:297)
+	at org.apache.catalina.core.StandardService.destroyInternal(StandardService.java:589)
+	at org.apache.catalina.util.LifecycleBase.destroy(LifecycleBase.java:297)
+	at org.apache.catalina.core.StandardServer.destroyInternal(StandardServer.java:877)
+	at org.apache.catalina.util.LifecycleBase.destroy(LifecycleBase.java:297)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:633)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:351)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:485)
+
+十月 21, 2017 2:19:46 下午 org.apache.coyote.AbstractProtocol destroy
+信息: Destroying ProtocolHandler ["ajp-nio-8009"]
+十月 21, 2017 2:19:46 下午 org.apache.coyote.AbstractProtocol destroy
+严重: Failed to destroy end point associated with ProtocolHandler ["ajp-nio-8009"]
+java.lang.NullPointerException
+	at org.apache.tomcat.util.net.NioEndpoint.releaseCaches(NioEndpoint.java:316)
+	at org.apache.tomcat.util.net.NioEndpoint.unbind(NioEndpoint.java:492)
+	at org.apache.tomcat.util.net.AbstractEndpoint.destroy(AbstractEndpoint.java:821)
+	at org.apache.coyote.AbstractProtocol.destroy(AbstractProtocol.java:534)
+	at org.apache.catalina.connector.Connector.destroyInternal(Connector.java:1023)
+	at org.apache.catalina.util.LifecycleBase.destroy(LifecycleBase.java:297)
+	at org.apache.catalina.core.StandardService.destroyInternal(StandardService.java:589)
+	at org.apache.catalina.util.LifecycleBase.destroy(LifecycleBase.java:297)
+	at org.apache.catalina.core.StandardServer.destroyInternal(StandardServer.java:877)
+	at org.apache.catalina.util.LifecycleBase.destroy(LifecycleBase.java:297)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:633)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:351)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:485)
+
